@@ -1,6 +1,6 @@
 # CoinCurrencyAssignment2
 
-#### What Works
+## What Works
 • Reads file and inputs data into arrays of structs
 • Computes change for every amount
 • If data contains invalid amount, a message is displayed saying which specific line
@@ -13,7 +13,7 @@ given name is shown
 • If name cannot be found then appropriate message is displayed
 • Data from input file is printed in output file along with change values
 
-What Doesn’t Work
+## What Doesn’t Work
 • Could not create a function that adds the amounts of the same currencies under the same
 individual name
 • Even repeated names in input file are repeated in output file
