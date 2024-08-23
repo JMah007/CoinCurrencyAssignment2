@@ -12,6 +12,7 @@ given name is shown
 • If 2 is selected then program exits
 • If name cannot be found then appropriate message is displayed
 • Data from input file is printed in output file along with change values
+
 What Doesn’t Work
 • Could not create a function that adds the amounts of the same currencies under the same
 individual name
